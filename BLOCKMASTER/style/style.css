@@ -1,0 +1,127 @@
+#body{
+    background-color: #d53032;
+    height: 2000px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGN9fodv_w_nQP6dTZiOL-8wjq2C2ws_aOyiKg4wv3XA2a93wFO1ObPP9N37rx1rP7sc&usqp=CAU); 
+    background-position: center;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+main{
+    height: 50%;
+}
+
+.carousel-item img {
+    height: 460px;
+    
+}
+
+.card img{
+    height: 350px;
+    width: 300px;
+    
+    
+}
+
+#peli{
+margin-top: 90px;
+width: 1300px;
+text-align: center;
+margin: 0 auto;
+}
+
+.cardW{
+    margin: 20px;
+}
+
+#fila2{
+margin-top: 30px;
+
+}
+
+div.carta{
+    background-color: rgba(5, 5, 5, 0.432);
+    background-image: url(https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AOo0EEX4C4fMBxKplwppuia3QxObqvB5g1azc%2FM2w1Fjg%2BIz2D%2FECi1eyeecQMkzk5s0waqjkQXr7Ru8pBF20Plz9SquzDTTJPNawY5%2FnMKid9M4S0nBfYxPg2SaQ04441Yf7yh3yS9u3bDwJ%2B5a78yHf5ByDMwnKcsqLzWB2YS%2F9143EmgViJSlWckpKneGkq5I0fdzCoJ7s4u9qj2g%2Bw%2BsErMvnezXRdJvMFt7ZFEMIZvoIRsXNkIwsOkInV%2B2zHwJlrE51ymRAsduBT49f76pwjHhZAj1FV2O0jchQQwnjH0sHAJY%2F4vDZu%2BtdE7EmD%2BPYGICXlizq%2BN2I6rRtpT7UlpLP%2B30nNFpICb%2FrnB4Gqb%2B8lzoz8zln9DTweLCbUnT2V7dnQWqhG3I1gOi0bUJK4u%2FgOQSbn76tzBTJEKpo4J8%2FBRP%2F1BU6k7D7Mj3X9%2BuS2KSRKdzppjXW36KIVq2YH%2F9O0p49KMU1MGTy8hWN7Tn6J0YiwtWGZqVNuDEX1%2FKG6ym5vJBi6BEEfTMvvxH6Nv1%2FjFJ0y%2BsPpdTOq20pc2FcHCvDfA%2B65hHyZbE4QQ%3D&sz=w512);
+    color: white;
+    background-size: cover;
+    border-radius: 30%;
+    
+    
+}
+
+#img{
+    margin-left: 3px;
+}
+
+#carouselExampleIndicators{
+    margin-top: 100px;
+}
+
+header{
+    background-color: rgba(180, 236, 187, 0.733)733; 
+    
+}
+
+nav{
+    background-color: rgb(2, 2, 2);
+    width: 100%;
+   
+    background-size: cover;
+    background-position: center;
+    }
+    .menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    }
+    .lista a{
+    text-decoration: none;
+    color: whitesmoke;
+    display: block;
+    padding: 15px 50px;
+    }
+    
+    .menu .lista{
+        display: inline-block;
+    }
+   
+    .lista a:hover{
+        background-color: indigo;
+    }
+    
+    input{
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+    background-color: rgba(22, 66, 110, 0.6);
+    }
+    
+    label{
+    font-size: 22px;
+    font-weight: 600;
+    
+    }
+
+    button[type="submit"]{
+    
+    background-color: indigo;
+    color: white;
+    padding: 10px;
+    font-family: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    }
+    
+    input::placeholder{
+    color: white;
+    }
+    
+    input:focus{
+    
+        outline: none;
+        background-color: rgba(188, 248, 49, 0.9);
+    }
+
